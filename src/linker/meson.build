@@ -1,0 +1,1 @@
+install_data(['exception.d','Exception.d','loader.d','Loader.d'], install_dir: 'include/d/gtk_d')

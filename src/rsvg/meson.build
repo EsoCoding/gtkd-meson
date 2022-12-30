@@ -1,0 +1,1 @@
+install_data(['Handle.d', 'c/types.d', 'c/functions.d'], install_dir: 'include/d/gtk_d')

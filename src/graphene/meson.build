@@ -1,0 +1,1 @@
+install_data(['Frustum.d', 'Plane.d', 'Vec2.d', 'Ray.d', 'Euler.d', 'Point.d', 'Quaternion.d', 'Vec4.d', 'Point3D.d', 'Size.d', 'Matrix.d', 'Rect.d', 'Sphere.d', 'Triangle.d', 'Quad.d', 'Vec3.d', 'Box.d', 'c/types.d', 'c/functions.d'], install_dir: 'include/d/gtk_d')

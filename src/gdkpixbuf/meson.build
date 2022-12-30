@@ -1,0 +1,1 @@
+install_data(['Pixdata.d', 'PixbufAnimationIter.d', 'PixbufFormat.d', 'PixbufLoader.d', 'PixbufAnimation.d', 'PixbufNonAnim.d', 'PixbufSimpleAnimation.d', 'Pixbuf.d', 'c/types.d', 'c/functions.d'], install_dir: 'include/d/gtk_d')

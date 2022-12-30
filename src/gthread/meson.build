@@ -1,0 +1,1 @@
+install_data(['Private.d', 'RecMutex.d', 'Cond.d', 'RWLock.d', 'Thread.d', 'Mutex.d', 'Once.d', 'c/types.d', 'c/functions.d'], install_dir: 'include/d/gtk_d')
